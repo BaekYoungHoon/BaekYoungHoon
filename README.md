@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... android
 - 🌱 I’m currently learning ... kotlin
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me give money!!
+- 📫 How to reach me give money!!ㅏㅡㅓㅜㅡㅐㅓ
 
 <!---
 BaekYoungHoon/BaekYoungHoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
