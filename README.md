@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaekYoungHoon
 - 👀 I’m interested in ... android
-- 🌱 I’m currently learning ... kotlin
+- 🌱 I’m currently learning ... kotlin, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me give money!!ㅏㅡㅓㅜㅡㅐㅓ
 
